@@ -1,0 +1,112 @@
+[
+   {
+      "id":1,
+      "name":"Snake Plant",
+      "item":"inHouse",
+      "website":"thesill.com",
+      "description":"Snake plants have also been shown to filter out nasty chemicals, like benzene, formaldehyde, trichloroethylene, xylene, and toluene, so you can breathe easy having this in your home.",
+      "image":"https://www.decorist.com/static/finds/product_images/full_size/143459-img68o-copy.08c60ffdd190cfa90f71f596f66c1f89.png",
+      "rate":4.0,
+      "price":"$44.00"
+   },
+   {
+      "id":2,
+      "name":"Monstera Deliciosa",
+      "item":"inHouse",
+      "website":"etsy.com",
+      "description":"In general, large-leafed philodendron plants, including the monstera deliciosa, were shown to be one of the most effective at reducing air pollutants, like benzene, trichloroethylene, and formaldehyde, according to a NASA study.",
+      "image":"https://toppng.com/uploads/preview/monstera-deliciosa-medium-house-plant-monstera-transparent-11562965338uifqyskhov.png",
+      "rate":2.9,
+      "price":"$34.95"
+   },
+   {
+      "id":3,
+      "name":"Pothos",
+      "item":"inHouse",
+      "website":"thesill.com",
+      "description":"As an added bonus, this plant is super easy to grow, adds Marino, and propagates (translation: breeds more pothos) in water. While you'll need to learn how to propagate a Pothos plant, you can basically get as many plants as you want for the price of one. And like the snake plant, the pothos filters benzene, formaldehyde, xylene, and toluene.",
+      "image":"https://img.teleflora.com/images/o_0/l_flowers:TPL08-1A,pg_6/w_272,h_340,cs_no_cmyk,c_pad/f_auto,q_auto:eco,e_sharpen:200/flowers/TPL08-1A/Teleflora'sLushLeavesPothosPlant",
+      "rate":3.9,
+      "price":"$57.00"
+   },
+   {
+      "id":4,
+      "name":"Dracaena",
+      "item":"inOffice",
+      "website":"amazon.com",
+      "description":"The hardiest of of these group is Draacena Lisa,she explains. It can deal with indoor temperature and season changes better than others.When it comes to purifying the air, though, the Dracaena Marginata Plant is your best bet. It removes benzene, formaldehyde, trichloroethylene, and xylene.",
+      "image":"https://cdn.webshopapp.com/shops/30495/files/292989267/550x550x2/dracaena-marginata-vertakt.jpg",
+      "rate":1.2,
+      "price":"$24.07"
+   },
+   {
+      "id":5,
+      "name":"ZZ Plant",
+      "item":"inOffice",
+      "website":"thesill.com",
+      "description":"These rhizomes, Horton explains, are hearty,storing water that helps the plant survive drought in its natural environment. She recommends watering it once a month during the growing season (spring and summer) and once every two months when it goes dormant in the fall. It is a great plant to have if you are somebody who happens to travel a lot, Horton adds.",
+      "image":"https://lh3.googleusercontent.com/proxy/PxqZTXGDu_W23B8MyTs2UCNQB-xFgMtn2jGjKBY8nLEJTm1jygoOFyyVV87svgixNSiGBis_DPI_1bOHwCYX_qrDtBIjxMAhsC3HVdGsZeVxkeN8lytjJ7xQqXUjLQVobSsj4_rKfOtN21VQ9w23ODOazw",
+      "rate":4.0,
+      "price":"$55.00"
+   },
+   {
+      "id":6,
+      "name":"Spider Plant",
+      "item":"inHouse",
+      "website":"amazon.com",
+      "description":"Vassilkioti adds that this plant is fun to have around because it grows baby spiders (spiderettes), which can be easily propagated. It's also a strong air purifier, removing both formaldehyde and xylene.",
+      "image":"https://www.pngkit.com/png/full/400-4009778_spider-plant-hanging-basket-chlorophytum-comosum.png",
+      "rate":4.4,
+      "price":"$13.99"
+   },
+   {
+      "id":7,
+      "name":"Rubber Tree",
+      "item":"inHouse",
+      "website":"thesill.com",
+      "description":"Sound like your kind of plant? Great, just know that a rubber tree needs bright light (can take some partial sunlight) and a good amount of space around for it to be happy, grow, and remove carbon dioxide from your home.",
+      "image":"https://www.decorist.com/static/finds/product_images/full_size/203682-untitled-5-copy.a4832bf78ed6cd074938840ee71f51e3.png",
+      "rate":4.1,
+      "price":"$52.00"
+   },
+   {
+      "id":8,
+      "name":"Bird’s Nest Fern",
+      "item":"inHouse",
+      "website":"thesill.com",
+      "description":"Ferns have been shown to filter formaldehyde, xylene, and toluene, so it's not a bad idea to put one in your bathroom. After all, that's where you're likely to use household toxins, like harsh cleaners, hairspray, and nail polish remover that often contain these chemicals.",
+      "image":"https://rootgreen.in/pub/media/catalog/product/cache/caf66031aec2346c2d21210c491cfa97/b/i/birdnestfern_45_1_5.png",
+      "rate":4.1,
+      "price":"$54.00"
+   },
+   {
+      "id":9,
+      "name":"Peace Lily",
+      "item":"inHouse",
+      "website":"amazon.com",
+      "description":"If that's not a problem for you, she recommends putting a peace lily in your bedroom since it produces oxygen at night, while most other plants do that during the day. Besides producing oxygen, this plant also removes ammonia, benzene, formaldehyde, and trichloroethylene.",
+      "image":"https://www.nicepng.com/png/full/55-559855_awesome-lowlight-indoor-plant-japanese-peace-lily-in.png",
+      "rate":3.3,
+      "price":"$24.00"
+   },
+   {
+      "id":10,
+      "name":"Philodendron Green",
+      "item":"inHouse",
+      "website":"thesill.com",
+      "description":"Though it's not the most air-purifying plant out there, philodendrons do filter formaldehyde. Not too shabby for a low-maintenance plant that's perfect for newbies.",
+      "image":"https://www.pngkey.com/png/full/410-4105552_philodendron-imperial-green-small-philodendron.png",
+      "rate":2.8,
+      "price":"$23.00"
+   },
+   {
+      "id":11,
+      "name":"Aloe Vera",
+      "item":"inHouse",
+      "website":"thesill.com",
+      "description":"Put your aloe vera plant in a bright, sunny spot and don't worry about keeping it alive. This guy likes to get its soil very, very dry before watering, she adds. And even if you don't use aloe vera for its healing properties, you can still reap all its air-purification benefits as it removes formaldehyde.",
+      "image":"https://www.amsterdamflowers.nl/pub/media/catalog/product/cache/5d140246d5c4e01513e86b01e4b08861/a/l/aloe-vera-plant.png",
+      "rate":3.5,
+      "price":"$20.00"
+   }
+]
